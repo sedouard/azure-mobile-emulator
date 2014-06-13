@@ -1,0 +1,16 @@
+{
+  "name": "smartdoor",
+  "version": "1.0.0",
+  "description": "smartdoor - hosted on Windows Azure Mobile Services",
+  "main": "server.js",
+  "engines": {
+    "node": ">= 0.8.19"
+  },
+  "dependencies": {
+	"express" : "4.1.x",
+	"morgan": "1.0.x",
+	"method-override" : "1.0.x",
+	"body-parser" : "1.0.x",
+	"nconf": "0.6.x"
+  }
+}
